@@ -19,10 +19,3 @@ Specifications:
 7.	LCD Display: Continuous display of temperature and fan state.
 8.	Motor Speed Control: PWM signal generated from Timer0 controls DC motor speed.
 
-
-Instructions:
-1.	Connect LM35 temperature sensor, LCD, DC motor, and ATmega32 microcontroller as per the provided schematics.
-2.	Upload the provided code to the microcontroller.
-3.	Power on the system.
-4.	Monitor the LCD display for temperature readings and fan status.
-5.	Observe fan speed adjustments based on temperature changes.
